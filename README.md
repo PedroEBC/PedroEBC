@@ -36,7 +36,7 @@ Seja bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e desenvol
 ---
 
 ## 📫 Contato
-- 🌐 LinkedIn: [Pedro Estevam](https://www.linkedin.com/in/PedroEBC)
+- 🌐 LinkedIn: [Pedro Estevam](https://www.linkedin.com/in/pedro-estevam10/)
 - ✉️ Email: pedrooestevambc@gmail.com
 
 Obrigado por visitar meu perfil! 😊
